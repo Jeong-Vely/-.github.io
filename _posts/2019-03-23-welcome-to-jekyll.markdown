@@ -5,11 +5,6 @@ date:   2019-11-22 21:03:36 +0530
 categories: 전화번호부 비디오가게 
 ---
 I am Jeong Yu Jin majoring in media engineering at Kangwon National University.
-Jeong Yujin
-Graduated from Chungla Elementary School
-Graduated from Samcheok Girls' Middle School
-Graduated from Samcheok Girls' High School
-(currently) attending the second year of majoring media engineering at the Samcheok Campus, Kangwon University.
 
 ---나의 경험 ---
 나의 경험으로는 전화번호부를 만들어 많은 사람들에게 편리함과 편의를 제공하였다. 
