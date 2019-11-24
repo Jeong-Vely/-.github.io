@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yujin's Diary"
+title:  "Jeong Yujin's portfolio"
 date:   2019-11-22 21:03:36 +0530
 categories: 전화번호부 비디오가게 
 ---
