@@ -4,7 +4,10 @@ title:  "Yujin's Diary"
 date:   2019-11-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+I am Jeong Yu Jin majoring in media engineering at Kangwon National University. 
+
+---나의 경험 ---
+나의 경험으로는 전화번호부를 만들어 많은 사람들에게 편리함과 편의를 제공하였다. 
 
 ```javascript
 const Razorpay = require('razorpay');
