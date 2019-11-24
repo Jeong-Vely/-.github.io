@@ -5,6 +5,7 @@ date:   2019-11-22 21:03:36 +0530
 categories: 전화번호부 비디오가게 
 ---
 I am Jeong Yu Jin majoring in media engineering at Kangwon National University.
+To learn more about Jeong Yu-jin, press Jeong Yu-jin's portfolio.
 
 ---2)자신이 가지고 있는 능력 ---
 나의 경험으로는 전화번호부를 만들어 많은 사람들에게 편리함과 편의를 제공하였다. 
