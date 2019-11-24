@@ -4,7 +4,12 @@ title:  "Yujin's Diary"
 date:   2019-11-22 21:03:36 +0530
 categories: 전화번호부 비디오가게 
 ---
-I am Jeong Yu Jin majoring in media engineering at Kangwon National University. 
+I am Jeong Yu Jin majoring in media engineering at Kangwon National University.
+정유진 (Jeong Yujin)
+정라초등학교 졸업
+삼척여자중학교 졸업
+삼척여자고등학교 졸업
+(현)강원대학교 삼척캠퍼스 미디어공학전공 2학년 재학 중
 
 ---나의 경험 ---
 나의 경험으로는 전화번호부를 만들어 많은 사람들에게 편리함과 편의를 제공하였다. 
