@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Yujin's Diary"
-date:   2019-11-23 21:03:36 +0530
-categories: Javascript NodeJS
+date:   2019-11-22 21:03:36 +0530
+categories: 전화번호부 비디오가게 
 ---
 I am Jeong Yu Jin majoring in media engineering at Kangwon National University. 
 
