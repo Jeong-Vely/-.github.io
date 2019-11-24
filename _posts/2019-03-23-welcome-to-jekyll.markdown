@@ -246,7 +246,7 @@ rzp.capture(payment_id, cost)
 	})
 ```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+이렇게 전화번호부를 만들었으며 비슷하게 파일입출력을 이용하여 비디오가게도 만든 경험이 있다. 여러번의 코드를 작성하면서 나 또한 많이 성장하였으며 취미로 코딩을 공부하는 계기가 되기도 하였다.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
